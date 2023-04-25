@@ -5,5 +5,5 @@
 <a href="https://www.twitter.com/betulnecanli"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Betul%20Necanli-9cf"/></a>
 <a href="https://www.instagram.com/betulnecanli"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Betul%20Necanli%20-pink"/></a>
 </br></br>
-<a href="https://github.com/betulnecanli"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=betulnecanli&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/betulnecanli"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=betulnecanli&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/></a>
 </p>
