@@ -7,10 +7,6 @@ I create beginner-friendly content about Android, Kotlin, and Jetpack Compose to
 
 I believe in sharing what I learn, building in public, and creating the kind of tutorials I wish existed when I started.
 
-If you find my content helpful or want to support this mission, thank you — it means the world 💙
-
-<a href="https://buymeacoffee.com/betulnecanli">You can also pick a video topic, or just say hi. I’m really glad you’re here! </a>
-
 
 
 <a href="https://medium.com/@betulnecanli"><img alt="Medium" src="https://img.shields.io/badge/Medium-Betul%20Necanli-lightgrey"/></a>
