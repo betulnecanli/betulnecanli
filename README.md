@@ -1,9 +1,9 @@
 ### 
 <p align="center">
 
-  Hey! I’m Betül — an Android Developer, educator, and dreamer building a tech journey from the ground up 🌱
+  Hey! I’m Betül; an Android Developer, educator, and dreamer building a tech journey from the ground up 🌱
 
-I create beginner-friendly content about Android, Kotlin, and Jetpack Compose to help self-taught devs and students level up with confidence — no fluff, just clean, practical learning.
+I create beginner friendly content about Android, Kotlin, and Jetpack Compose to help self-taught devs and students level up with confidence; no fluff, just clean, practical learning.
 
 I believe in sharing what I learn, building in public, and creating the kind of tutorials I wish existed when I started.
 
